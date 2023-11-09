@@ -1,0 +1,1 @@
+model=load_model(r"animal.h5",compile=False
